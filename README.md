@@ -1,1 +1,1 @@
-# listadeexercicios
+# Lista de Exercícios para os alunos da Turma de ADS
