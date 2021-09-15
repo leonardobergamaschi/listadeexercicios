@@ -1,0 +1,6 @@
+raio = int(input('Digite o raio de seu circulo em centimetros:'))
+
+pi = 3.14
+area = pi * raio**2
+
+print(f'A área do circulo é de {area}CM²')        
